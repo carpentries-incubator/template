@@ -1,3 +1,10 @@
+**This template is deprecated. Please use one of the template lesson repositories that uses The Carpentries Workbench:**
+
+1. A template for lessons using standard Markdown: <https://github.com/carpentries/workbench-template-md>
+2. A template for lessons using R Markdown (recommended for lessons that will include example R code blocks): <https://github.com/carpentries/workbench-template-rmd>
+
+---
+
 # FIXME Lesson title
 
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
